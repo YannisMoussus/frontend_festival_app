@@ -119,6 +119,9 @@ class _LoginPageState extends State<LoginPage> {
                           color: Theme.of(context).accentColor,
                           shape: StadiumBorder(),
                         ),
+                        SizedBox(
+                          height: 30,
+                        ),
                         // ignore: deprecated_member_use
                         FlatButton(
                           padding: EdgeInsets.symmetric(

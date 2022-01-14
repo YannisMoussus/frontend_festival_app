@@ -23,7 +23,7 @@ class _RoutePageState extends State<RoutePage> {
   final screens = [
     TicketPage(),
     MapPage(),
-    FestivalPage(),
+    HomePage(),
     CreateArtistPage(),
     LoginPage(),
   ];
